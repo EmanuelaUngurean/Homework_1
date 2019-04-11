@@ -1,0 +1,15 @@
+5. Exercise #5: SDLC & Project Management
+Consider you have a small software agency that it's main business is transforming ideas into digital identities. Please come with a solution on how you would do the project discovery phase (gather business knowledge from the client) and translate that to your employees.
+Considering the SDLC cycle and the information you have learned in the last presentation, please assign roles and tasks to your team of 5 people. (consider you have 5 employees, you may assign them any roles you desire)
+
+
+ The project consists of creating a page of a site, a page which is usable for making payments with the card. So, we have a team of five people, each has a specific role and a specific task:
+  1. The Product Owner: is the voice of the client. It is responsible for ensuring the value of the business, prepares the customer's requirements and prioritizes them.
+  2. The Scrum Master: is responsible for removing obstacles to the team to deliver the goal or sprint deliveries. He is not the team leader but acts as a buffer between the team and any distracting influences. Ensures that the Scrum process is used according to the rules, protects the team, maintains it focused on tasks.
+  3. Software Developer : - has to produce clean and efficient code based on specifications;
+                          - test and deploy programs and systems;
+                          - fix and improve existing software.
+  4. Software Test Manager: has to take very important decisions regarding the testing environment that is required, how information flow would be managed and how testing procedure would go hand in hand with development. He has to supervise all testing activities carried out by the team and identify team members who require more training.
+  5. Software test automator or an automated test engineer: - should be able to understand the requirement and design test procedures and test cases for automated software; testing.                                                    - design automated test scripts that are reusable;
+                                                            - ensure that all automated testing related activities are carried out as per the standards defined by the company.
+
